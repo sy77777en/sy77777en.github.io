@@ -68,7 +68,7 @@ My current focus is on video understanding, video editing and robotics.
       Jiaben Chen, Xin Yan, Yihang Chen, <strong>Siyuan Cen</strong>, Qinwei Ma, Haoyu Zhen, Kaizhi Qian, Lie Lu, and Chuang Gan
     </p>
     <p>
-      <a href="https://vis-www.cs.umass.edu/RapVerse/">Website</a>
+      <a href="https://vis-www.cs.umass.edu/RapVerse/">Website</a> |
       <a href="https://arxiv.org/abs/2405.20336">arXiv</a> 
     </p>
     <p>
@@ -91,7 +91,7 @@ My current focus is on video understanding, video editing and robotics.
       Bowen Liu, Boao Xiao, Xutong Jiang, <strong>Siyuan Cen</strong>, Xin He, Wanchun Dou
     </p>
     <p>
-      <a href="">Website</a>
+      <a href="">Website</a> |
       <a href="https://onlinelibrary.wiley.com/doi/pdf/10.1155/2023/8691095">arXiv</a> 
     </p>
     <p>
