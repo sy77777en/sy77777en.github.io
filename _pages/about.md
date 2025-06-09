@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I’m Siyuan Cen (岑思远), a first year master at [UMass Amherst](https://www.umass.edu), advised by [Prof. Chuang Gan](https://people.csail.mit.edu/ganchuang/). Currently, I’m a research intern at CMU, co-advised by [Prof. Deva Ramanan](https://www.cs.cmu.edu/~deva/) and [Prof. Yilun Du](https://yilundu.github.io/). Before that, I got my becholar degree from Nanjing University, where I'm lucky to work with Prof. [Ying Tai](https://tyshiwo.github.io/).
+I’m Siyuan Cen (岑思远), a first year master at [UMass Amherst](https://www.umass.edu), advised by [Prof. Chuang Gan](https://people.csail.mit.edu/ganchuang/). Currently, I’m a research intern at CMU, advised by [Prof. Deva Ramanan](https://www.cs.cmu.edu/~deva/). Before that, I got my becholar degree from Nanjing University, where I'm lucky to work with Prof. [Ying Tai](https://tyshiwo.github.io/).
 
 My current focus is on video understanding, video editing and robotics.
 
