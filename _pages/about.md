@@ -32,13 +32,12 @@ My current focus is on video understanding, video editing and robotics.
   <div class="paper-box-image">
     <div>
       <span class="badge">arXiv</span>
-      <img src="papers/camerabench/images/3.gif" alt="CameraBench teaser" style="width:100%;">
+      <img src="papers/camerabench/imgs/3.gif" alt="CameraBench teaser" style="width:100%;">
     </div>
   </div>
 
   <div class="paper-box-text">
     <h3>Towards Understanding Camera Motions in Any Video</h3>
-    <h4>CameraBench: Towards Understanding Camera Motions in Any Video</h4>
     <p>
       Zhiqiu Lin*, <strong>Siyuan Cen*</strong>, Daniel Jiang, Jay Karhade, Hewei Wang, Chancharik Mitra,
       Yu Tong Tiffany Ling, Yuhan Huang, Sifan Liu, Mingyu Chen, Rushikesh Zawar, Xue Bai,
@@ -54,10 +53,8 @@ My current focus is on video understanding, video editing and robotics.
       </a>
     </p>
     <ul>
-      <li>
         We present <strong>CameraBench</strong>, a large-scale dataset and benchmark for evaluating and
         improving camera motion understanding in both SfM/SLAM systems and VLMs.
-      </li>
     </ul>
   </div>
 </div>
