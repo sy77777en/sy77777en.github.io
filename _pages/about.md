@@ -59,6 +59,29 @@ My current focus is on video understanding, video editing and robotics.
   </div>
 </div>
 
+<div class="paper-box">
+  <div class="paper-box-image">
+    <div>
+      <span class="badge">arXiv</span>
+      <img src="papers/camerabench/imgs/3.gif" alt="CameraBench teaser" style="width:100%;">
+    </div>
+  </div>
+
+  <div class="paper-box-text">
+    <h3>RapVerse: Coherent Vocals and Whole-Body Motions Generations from Text</h3>
+    <p>
+      Jiaben Chen, Xin Yan, Yihang Chen, <strong>Siyuan Cen</strong>, Qinwei Ma, Haoyu Zhen, Kaizhi Qian, Lie Lu, and Chuang Gan
+    </p>
+    <p>
+      <a href="https://vis-www.cs.umass.edu/RapVerse/">Website</a>
+      <a href="https://arxiv.org/abs/2405.20336">arXiv</a> 
+    </p>
+    <ul>
+        In this paper, we introduce a challenging task for simultaneously generating 3D holistic body motions and singing vocals directly from textual lyrics inputs. To facilitate this, we first collect the RapVerse dataset, a large dataset containing synchronous rapping vocals, lyrics, and high-quality 3D holistic body meshes.
+    </ul>
+  </div>
+</div>
+
 [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 </div>
