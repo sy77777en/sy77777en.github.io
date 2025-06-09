@@ -126,7 +126,7 @@ My current focus is on video understanding, video editing and robotics.
                transition: transform 0.2s ease;
                cursor: pointer;"
         onmouseover="this.style.transform='scale(1.1)'; this.style.boxShadow='0 8px 16px rgba(0,0,0,0.25)';"
-        onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='none';" //>
+        onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='none';" />
     </a>
   </div>
 </div>
