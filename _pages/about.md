@@ -81,7 +81,7 @@ My current focus is on video understanding, video editing and robotics.
   <div class="paper-box-image">
     <div>
       <span class="badge">Security and Communication Networks</span>
-      <img src="papers/advattacks/imgs/1.jpg" alt="CameraBench teaser" style="width:100%;">
+      <img src="papers/advattack/imgs/1.jpg" alt="CameraBench teaser" style="width:100%;">
     </div>
   </div>
 
@@ -105,8 +105,26 @@ My current focus is on video understanding, video editing and robotics.
 - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+
+<div class="paper-box-right">
+  <div class="paper-box-text">
+    <p><a href="https://www.nju.edu.cn/en">Nanjing University</a></p>
+
+    <p>Undergraduate, <em>2020.09 - 2024.06</em></p>
+
+      <p>Advisor: <a href="https://tyshiwo.github.io/">Ying Tai</a></p>
+  </div>
+  <div class="paper-box-image">
+    <div>
+      <a href="https://www.nju.edu.cn/en">
+      <img src="images/nju.png" alt="sym" width="100px" style="padding: 10px">
+      </a>
+    </div>
+  </div>
+</div>
+
+- *2024.09 - (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2020.09 - 2024.06*, Nanjing University 
 
 # 💻 Internships
 - *2023.09 - 2024.06*, MIT-IBM Watson AI Lab
