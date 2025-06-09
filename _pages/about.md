@@ -106,20 +106,23 @@ My current focus is on video understanding, video editing and robotics.
 
 # 📖 Educations
 
-<div class="paper-box-right">
-  <div class="paper-box-text">
+<div class="paper-box-right"
+     style="display: flex;
+            align-items: center;
+            justify-content: flex-start;
+            gap: 20px;">
+  <div class="paper-box-text" style="flex: 1;">
     <p><a href="https://www.nju.edu.cn/en">Nanjing University</a></p>
-
-    <p>Undergraduate, <em>2020.09 - 2024.06</em></p>
-
-      <p>Advisor: <a href="https://tyshiwo.github.io/">Ying Tai</a></p>
+    <p><em>Undergraduate, 2020.09 – 2024.06</em></p>
+    <p>Advisor: <a href="https://tyshiwo.github.io/">Ying Tai</a></p>
   </div>
-  <div class="paper-box-image">
-    <div>
-      <a href="https://www.nju.edu.cn/en">
-      <img src="images/nju.png" alt="sym" width="100px" style="padding: 10px">
-      </a>
-    </div>
+  <div class="paper-box-image" style="flex: 0 0 auto;">
+    <a href="https://www.nju.edu.cn/en">
+      <img src="images/nju.png"
+           alt="Nanjing University logo"
+           width="100"
+           style="display: block;"/>
+    </a>
   </div>
 </div>
 
