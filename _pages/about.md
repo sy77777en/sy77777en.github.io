@@ -107,7 +107,7 @@ My current focus is on video understanding, video editing and robotics.
 # 📖 Educations
 
 <div class="paper-box-right"
-     style="display: flex; align-items: center; justify-content: flex-start; gap: 20px; padding: 0 10px; margin-bottom: 10px;">
+     style="display: flex; align-items: center; justify-content: flex-start; gap: 20px; padding: 0 20px; margin-bottom: 20px;">
   <div class="paper-box-text" style="flex: 1;">
     <p>UMass Amherst</p>
     <p><em>M.S. in Computer Science, 2024.09 – now</em></p>
@@ -129,7 +129,7 @@ My current focus is on video understanding, video editing and robotics.
 </div>
 
 <div class="paper-box-right"
-     style="display: flex; align-items: center; justify-content: flex-start; padding: 0 10px; gap: 20px;">
+     style="display: flex; align-items: center; justify-content: flex-start; padding: 0 20px; gap: 20px;">
   <div class="paper-box-text" style="flex: 1;">
     <p>Nanjing University</p>
     <p><em>Undergraduate, 2020.09 – 2024.06</em></p>
