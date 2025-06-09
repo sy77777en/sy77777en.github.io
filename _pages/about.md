@@ -107,10 +107,29 @@ My current focus is on video understanding, video editing and robotics.
 # 📖 Educations
 
 <div class="paper-box-right"
-     style="display: flex;
-            align-items: center;
-            justify-content: flex-start;
-            gap: 20px;">
+     style="display: flex; align-items: center; justify-content: flex-start; gap: 20px;">
+  <div class="paper-box-text" style="flex: 1;">
+    <p><a href="https://www.umass.edu">UMass Amherst</a></p>
+    <p><em>M.S. in Computer Science, 2024.09 – now</em></p>
+    <p>Advisor: <a href="https://people.csail.mit.edu/ganchuang/">Chuang Gan</a></p>
+  </div>
+  <div class="paper-box-image" style="flex: 0 0 auto;">
+    <a href="">
+      <img
+        src="images/umass.png"
+        alt="UMass Amherst logo"
+        width="100"
+        style="display: block;
+               transition: transform 0.2s ease;
+               cursor: pointer;"
+        onmouseover="this.style.transform='scale(1.1)';"
+        onmouseout="this.style.transform='scale(1)';" />
+    </a>
+  </div>
+</div>
+
+<div class="paper-box-right"
+     style="display: flex; align-items: center; justify-content: flex-start; gap: 20px;">
   <div class="paper-box-text" style="flex: 1;">
     <p><a href="https://www.nju.edu.cn/en">Nanjing University</a></p>
     <p><em>Undergraduate, 2020.09 – 2024.06</em></p>
@@ -118,16 +137,18 @@ My current focus is on video understanding, video editing and robotics.
   </div>
   <div class="paper-box-image" style="flex: 0 0 auto;">
     <a href="https://www.nju.edu.cn/en">
-      <img src="images/nju.png"
-           alt="Nanjing University logo"
-           width="100"
-           style="display: block;"/>
+      <img
+        src="images/nju.png"
+        alt="Nanjing University logo"
+        width="100"
+        style="display: block;
+               transition: transform 0.2s ease;
+               cursor: pointer;"
+        onmouseover="this.style.transform='scale(1.1)';"
+        onmouseout="this.style.transform='scale(1)';" />
     </a>
   </div>
 </div>
-
-- *2024.09 - (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2020.09 - 2024.06*, Nanjing University 
 
 # 💻 Internships
 - *2023.09 - 2024.06*, MIT-IBM Watson AI Lab
