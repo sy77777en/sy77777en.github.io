@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I’m Siyuan Cen (岑思远), a first year master at [UMass Amherst](https://www.umass.edu), advised by [Prof. Chuang Gan](https://people.csail.mit.edu/ganchuang/). Currently, I’m a research intern at CMU, co-advised by [Prof. Deva Ramanan](https://www.cs.cmu.edu/~deva/) and [Prof. Yilun Du](https://yilundu.github.io/). Before that, I got my becholar degree from Nanjing University, where I'm lucky to work with Prof. [Ying Tai](https://tyshiwo.github.io/).
+I’m Siyuan Cen (岑思远), a first year master at [UMass Amherst](https://www.umass.edu), advised by [Prof. Chuang Gan](https://people.csail.mit.edu/ganchuang/). Currently, I’m a research intern at CMU, advised by [Prof. Deva Ramanan](https://www.cs.cmu.edu/~deva/). Before that, I got my becholar degree from Nanjing University, where I'm lucky to work with Prof. [Ying Tai](https://tyshiwo.github.io/).
 
 My current focus is on video understanding, video editing and robotics.
 
@@ -31,29 +31,32 @@ My current focus is on video understanding, video editing and robotics.
 <div class="paper-box">
   <div class="paper-box-image">
     <div>
-      <div class="badge">arXiv</div>
-      <img src="papers/camerabench/images/3.gif" alt="CameraBench teaser" width="100%">
+      <span class="badge">arXiv</span>
+      <img src="papers/camerabench/images/3.gif" alt="CameraBench teaser" style="width:100%;">
     </div>
   </div>
 
-  <div class="paper-box-text" markdown="1">
-    <p><strong>Towards Understanding Camera Motions in Any Video</strong></p>
-    <p><strong>CameraBench: Towards Understanding Camera Motions in Any Video</strong></p>
+  <div class="paper-box-text">
+    <h3>Towards Understanding Camera Motions in Any Video</h3>
+    <h4>CameraBench: Towards Understanding Camera Motions in Any Video</h4>
     <p>
-      Zhiqiu Lin*, <strong>Siyuan Cen*</strong>, Daniel Jiang, Jay Karhade, Hewei Wang, Chancharik Mitra, 
-      Yu Tong Tiffany Ling, Yuhan Huang, Sifan Liu, Mingyu Chen, Rushikesh Zawar, Xue Bai, Yilun Du, 
-      Chuang Gan, Deva Ramanan
+      Zhiqiu Lin*, <strong>Siyuan Cen*</strong>, Daniel Jiang, Jay Karhade, Hewei Wang, Chancharik Mitra,
+      Yu Tong Tiffany Ling, Yuhan Huang, Sifan Liu, Mingyu Chen, Rushikesh Zawar, Xue Bai,
+      Yilun Du, Chuang Gan, Deva Ramanan
     </p>
     <p>
       <a href="https://linzhiqiu.github.io/papers/camerabench/">Website</a> |
       <a href="https://arxiv.org/abs/2504.15376">arXiv</a> |
       <a href="https://github.com/sy77777en/CameraBench">
-        <img src="https://img.shields.io/github/stars/sy77777en/CameraBench?style=social&label=Code+Stars" alt="GitHub stars">
+        <img
+          src="https://img.shields.io/github/stars/sy77777en/CameraBench?style=social&label=Code+Stars"
+          alt="GitHub stars">
       </a>
     </p>
     <ul>
       <li>
-        We present <strong>CameraBench</strong>, a large-scale dataset and benchmark for evaluating and improving camera motion understanding in both SfM/SLAM systems and VLMs.
+        We present <strong>CameraBench</strong>, a large-scale dataset and benchmark for evaluating and
+        improving camera motion understanding in both SfM/SLAM systems and VLMs.
       </li>
     </ul>
   </div>
