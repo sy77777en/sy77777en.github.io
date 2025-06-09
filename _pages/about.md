@@ -107,7 +107,7 @@ My current focus is on video understanding, video editing and robotics.
 # 📖 Educations
 
 <div class="paper-box-right"
-     style="display: flex; align-items: center; justify-content: flex-start; gap: 20px; padding: 0 20px; margin-bottom: 20px;">
+     style="display: flex; align-items: center; justify-content: flex-start; gap: 20px; padding: 0 35px; margin-bottom: 25px;">
   <div class="paper-box-text" style="flex: 1;">
     <p>UMass Amherst</p>
     <p><em>M.S. in Computer Science, 2024.09 – now</em></p>
@@ -129,7 +129,7 @@ My current focus is on video understanding, video editing and robotics.
 </div>
 
 <div class="paper-box-right"
-     style="display: flex; align-items: center; justify-content: flex-start; padding: 0 20px; gap: 20px;">
+     style="display: flex; align-items: center; justify-content: flex-start; padding: 0 35px; gap: 20px;">
   <div class="paper-box-text" style="flex: 1;">
     <p>Nanjing University</p>
     <p><em>Undergraduate, 2020.09 – 2024.06</em></p>
@@ -138,7 +138,7 @@ My current focus is on video understanding, video editing and robotics.
   <div class="paper-box-image" style="flex: 0 0 auto;">
     <a href="https://www.nju.edu.cn/en">
       <img
-        src="images/nju.png"
+        src="images/nju.jpg"
         alt="Nanjing University logo"
         width="100"
         style="display: block;
@@ -153,17 +153,39 @@ My current focus is on video understanding, video editing and robotics.
 # 💻 Internships
 
 <div class="paper-box-right"
-     style="display: flex; align-items: center; justify-content: flex-start; padding: 0 20px; gap: 20px;">
+     style="display: flex; align-items: center; justify-content: flex-start; padding: 0 35px; gap: 20px; margin-bottom: 25px;">
+  <div class="paper-box-text" style="flex: 1;">
+    <p>MIT-Deva's Lab</p>
+    <p><em>Research Intern, 2025.05 – now</em></p>
+    <p>Advisor: <a href="https://www.cs.cmu.edu/~deva/">Deva Ramanan</a></p>
+  </div>
+  <div class="paper-box-image" style="flex: 0 0 auto;">
+    <a href="https://www.cs.cmu.edu/~deva/">
+      <img
+        src="images/CMU.webp"
+        alt="CMU logo"
+        width="100"
+        style="display: block;
+               transition: transform 0.2s ease;
+               cursor: pointer;"
+        onmouseover="this.style.transform='scale(1.1)';"
+        onmouseout="this.style.transform='scale(1)';" />
+    </a>
+  </div>
+</div>
+
+<div class="paper-box-right"
+     style="display: flex; align-items: center; justify-content: flex-start; padding: 0 35px; gap: 20px;">
   <div class="paper-box-text" style="flex: 1;">
     <p>MIT-IBM Watson AI Lab</p>
     <p><em>Research Intern, 2023.09 – 2024.06</em></p>
-    <p>Advisor: <a href="https://tyshiwo.github.io/">Chuang Gan</a></p>
+    <p>Advisor: <a href="https://people.csail.mit.edu/ganchuang/">Chuang Gan</a></p>
   </div>
   <div class="paper-box-image" style="flex: 0 0 auto;">
-    <a href="https://www.nju.edu.cn/en">
+    <a href="https://mitibmwatsonailab.mit.edu/">
       <img
         src="images/mitibm.png"
-        alt="MIT-IBM logo"
+        alt="mitibm logo"
         width="100"
         style="display: block;
                transition: transform 0.2s ease;
