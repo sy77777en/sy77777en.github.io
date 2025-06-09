@@ -117,7 +117,7 @@ My current focus is on video understanding, video editing and robotics.
     <p>Advisor: <a href="https://people.csail.mit.edu/ganchuang/">Chuang Gan</a></p>
   </div>
   <div class="paper-box-image" style="flex: 0 0 auto;">
-    <a href="">
+    <a href="https://www.umass.edu/">
       <img
         src="images/umass.png"
         alt="UMass Amherst logo"
@@ -182,10 +182,10 @@ My current focus is on video understanding, video editing and robotics.
   <div class="paper-box-text" style="flex: 1;">
     <p>MIT-IBM Watson AI Lab</p>
     <p><em>Research Intern, 2023.09 – 2024.06</em></p>
-    <p>Advisor: <a href="https://visionlanguagelab.github.io/">Chuang Gan</a></p>
+    <p>Advisor: <a href="https://people.csail.mit.edu/ganchuang/">Chuang Gan</a></p>
   </div>
   <div class="paper-box-image" style="flex: 0 0 auto;">
-    <a href="https://visionlanguagelab.github.io/">
+    <a href="https://mitibmwatsonailab.mit.edu/">
       <img
         src="images/mitibm.png"
         alt="mitibm logo"
