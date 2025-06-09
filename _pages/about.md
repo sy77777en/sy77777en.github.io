@@ -122,8 +122,8 @@ My current focus is on video understanding, video editing and robotics.
         style="display: block;
                transition: transform 0.2s ease;
                cursor: pointer;"
-        onmouseover="this.style.transform='scale(1.1)';"
-        onmouseout="this.style.transform='scale(1)';" />
+        onmouseover="this.style.transform='scale(1)';"
+        onmouseout="this.style.transform='scale(0.9)';" />
     </a>
   </div>
 </div>
@@ -144,8 +144,8 @@ My current focus is on video understanding, video editing and robotics.
         style="display: block;
                transition: transform 0.2s ease;
                cursor: pointer;"
-        onmouseover="this.style.transform='scale(1.1)';"
-        onmouseout="this.style.transform='scale(1)';" />
+        onmouseover="this.style.transform='scale(1)';"
+        onmouseout="this.style.transform='scale(0.9)';" />
     </a>
   </div>
 </div>
