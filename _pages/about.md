@@ -109,7 +109,7 @@ My current focus is on video understanding, video editing and robotics.
 <div class="paper-box-right"
      style="display: flex; align-items: center; justify-content: flex-start; gap: 20px;">
   <div class="paper-box-text" style="flex: 1;">
-    <p><a href="https://www.umass.edu">UMass Amherst</a></p>
+    <p>UMass Amherst</p>
     <p><em>M.S. in Computer Science, 2024.09 – now</em></p>
     <p>Advisor: <a href="https://people.csail.mit.edu/ganchuang/">Chuang Gan</a></p>
   </div>
@@ -131,7 +131,7 @@ My current focus is on video understanding, video editing and robotics.
 <div class="paper-box-right"
      style="display: flex; align-items: center; justify-content: flex-start; gap: 20px;">
   <div class="paper-box-text" style="flex: 1;">
-    <p><a href="https://www.nju.edu.cn/en">Nanjing University</a></p>
+    <p>Nanjing University</p>
     <p><em>Undergraduate, 2020.09 – 2024.06</em></p>
     <p>Advisor: <a href="https://tyshiwo.github.io/">Ying Tai</a></p>
   </div>
