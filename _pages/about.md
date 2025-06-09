@@ -122,8 +122,8 @@ My current focus is on video understanding, video editing and robotics.
         style="display: block;
                transition: transform 0.2s ease;
                cursor: pointer;"
-        onmouseover="this.style.transform='scale(1)';"
-        onmouseout="this.style.transform='scale(0.9)';" />
+        onmouseover="this.style.transform='scale(1.1)';"
+        onmouseout="this.style.transform='scale(1)';" />
     </a>
   </div>
 </div>
@@ -144,11 +144,32 @@ My current focus is on video understanding, video editing and robotics.
         style="display: block;
                transition: transform 0.2s ease;
                cursor: pointer;"
-        onmouseover="this.style.transform='scale(1)';"
-        onmouseout="this.style.transform='scale(0.9)';" />
+        onmouseover="this.style.transform='scale(1.1)';"
+        onmouseout="this.style.transform='scale(1)';" />
     </a>
   </div>
 </div>
 
 # 💻 Internships
-- *2023.09 - 2024.06*, MIT-IBM Watson AI Lab
+
+<div class="paper-box-right"
+     style="display: flex; align-items: center; justify-content: flex-start; padding: 0 20px; gap: 20px;">
+  <div class="paper-box-text" style="flex: 1;">
+    <p>MIT-IBM Watson AI Lab</p>
+    <p><em>Research Intern, 2023.09 – 2024.06</em></p>
+    <p>Advisor: <a href="https://tyshiwo.github.io/">Chuang Gan</a></p>
+  </div>
+  <div class="paper-box-image" style="flex: 0 0 auto;">
+    <a href="https://www.nju.edu.cn/en">
+      <img
+        src="images/mitibm.png"
+        alt="MIT-IBM logo"
+        width="100"
+        style="display: block;
+               transition: transform 0.2s ease;
+               cursor: pointer;"
+        onmouseover="this.style.transform='scale(1.1)';"
+        onmouseout="this.style.transform='scale(1)';" />
+    </a>
+  </div>
+</div>
