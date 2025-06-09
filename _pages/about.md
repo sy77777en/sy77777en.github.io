@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I’m Siyuan Cen (岑思远), a first year master at [UMass Amherst](https://www.umass.edu), advised by [Prof. Chuang Gan](https://people.csail.mit.edu/ganchuang/). Currently, I’m a research intern at CMU, co-advised by Prof. [Deva Ramanan](https://www.cs.cmu.edu/~deva/) and [Yilun Du](https://yilundu.github.io/). Before that, I got my becholar degree from Nanjing University, where I'm lucky to work with Prof. [Ying Tai](https://tyshiwo.github.io/).
+I’m Siyuan Cen (岑思远), a first year master at [UMass Amherst](https://www.umass.edu/), advised by [Prof. Chuang Gan](https://people.csail.mit.edu/ganchuang/). Currently, I’m a research intern at [CMU](https://www.cmu.edu/), co-advised by Prof. [Deva Ramanan](https://www.cs.cmu.edu/~deva/) and [Yilun Du](https://yilundu.github.io/). Before that, I got my becholar degree from Nanjing University, where I'm lucky to work with Prof. [Ying Tai](https://tyshiwo.github.io/).
 
 My current focus is on video understanding, video editing and robotics.
 
@@ -101,8 +101,11 @@ My current focus is on video understanding, video editing and robotics.
 </div>
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2024.08* Champion of Jiangsu University Badminton Exchange Match 
+- *2023.10* People's Third Class Scholarship
+- *2022.10* Qing Ying Fei Fan Scholarship
+- *2021.09* People's First Class Scholarship
+- *2021.08* The sixth place of badminton in Jiangsu University Games
 
 # 📖 Educations
 
@@ -150,12 +153,12 @@ My current focus is on video understanding, video editing and robotics.
   </div>
 </div>
 
-# 💻 Internships
+# 💻 Experiences
 
 <div class="paper-box-right"
      style="display: flex; align-items: center; justify-content: flex-start; padding: 0 35px; gap: 20px; margin-bottom: 25px;">
   <div class="paper-box-text" style="flex: 1;">
-    <p>MIT-Deva's Lab</p>
+    <p>Deva's Lab</p>
     <p><em>Research Intern, 2025.05 – now</em></p>
     <p>Advisor: <a href="https://www.cs.cmu.edu/~deva/">Deva Ramanan</a></p>
   </div>
@@ -175,16 +178,38 @@ My current focus is on video understanding, video editing and robotics.
 </div>
 
 <div class="paper-box-right"
-     style="display: flex; align-items: center; justify-content: flex-start; padding: 0 35px; gap: 20px;">
+     style="display: flex; align-items: center; justify-content: flex-start; padding: 0 35px; gap: 20px; margin-bottom: 25px;">
   <div class="paper-box-text" style="flex: 1;">
     <p>MIT-IBM Watson AI Lab</p>
     <p><em>Research Intern, 2023.09 – 2024.06</em></p>
-    <p>Advisor: <a href="https://people.csail.mit.edu/ganchuang/">Chuang Gan</a></p>
+    <p>Advisor: <a href="https://visionlanguagelab.github.io/">Chuang Gan</a></p>
   </div>
   <div class="paper-box-image" style="flex: 0 0 auto;">
-    <a href="https://mitibmwatsonailab.mit.edu/">
+    <a href="https://visionlanguagelab.github.io/">
       <img
-        src="images/mitibm.png"
+        src="images/psu.png"
+        alt="psu logo"
+        width="100"
+        style="display: block;
+               transition: transform 0.2s ease;
+               cursor: pointer;"
+        onmouseover="this.style.transform='scale(1.1)';"
+        onmouseout="this.style.transform='scale(1)';" />
+    </a>
+  </div>
+</div>
+
+<div class="paper-box-right"
+     style="display: flex; align-items: center; justify-content: flex-start; padding: 0 35px; gap: 20px;">
+  <div class="paper-box-text" style="flex: 1;">
+    <p>Huijuan Xu's Lab</p>
+    <p><em>Research Intern, 2023.04 – 2023.09</em></p>
+    <p>Advisor: <a href="https://visionlanguagelab.github.io/">Huijuan Xu</a></p>
+  </div>
+  <div class="paper-box-image" style="flex: 0 0 auto;">
+    <a href="https://visionlanguagelab.github.io/">
+      <img
+        src="images/psu.png"
         alt="mitibm logo"
         width="100"
         style="display: block;
