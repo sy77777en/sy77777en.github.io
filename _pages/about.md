@@ -187,8 +187,8 @@ My current focus is on video understanding, video editing and robotics.
   <div class="paper-box-image" style="flex: 0 0 auto;">
     <a href="https://visionlanguagelab.github.io/">
       <img
-        src="images/psu.png"
-        alt="psu logo"
+        src="images/mitibm.png"
+        alt="mitibm logo"
         width="100"
         style="display: block;
                transition: transform 0.2s ease;
