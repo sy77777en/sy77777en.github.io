@@ -47,10 +47,10 @@ My current focus is on video understanding, video editing and robotics.
           alt="GitHub stars">
       </a>
     </p>
-    <ul>
+    <p>
         We present <strong>CameraBench</strong>, a large-scale dataset and benchmark for evaluating and
         improving camera motion understanding in both SfM/SLAM systems and VLMs.
-    </ul>
+    </p>
   </div>
 </div>
 
@@ -71,9 +71,9 @@ My current focus is on video understanding, video editing and robotics.
       <a href="https://vis-www.cs.umass.edu/RapVerse/">Website</a>
       <a href="https://arxiv.org/abs/2405.20336">arXiv</a> 
     </p>
-    <ul>
-        In this paper, we introduce a challenging task for simultaneously generating 3D holistic body motions and singing vocals directly from textual lyrics inputs. To facilitate this, we first collect the RapVerse dataset, a large dataset containing synchronous rapping vocals, lyrics, and high-quality 3D holistic body meshes.
-    </ul>
+    <p>
+      In this paper, we introduce a challenging task for simultaneously generating 3D holistic body motions and singing vocals directly from textual lyrics inputs. To facilitate this, we first collect the RapVerse dataset, a large dataset containing synchronous rapping vocals, lyrics, and high-quality 3D holistic body meshes.
+    </p>
   </div>
 </div>
 
@@ -94,9 +94,9 @@ My current focus is on video understanding, video editing and robotics.
       <a href="">Website</a>
       <a href="https://onlinelibrary.wiley.com/doi/pdf/10.1155/2023/8691095">arXiv</a> 
     </p>
-    <ul>
+    <p>
         The paper exposes how adversarial prompts can bypass ChatGPT's safeguards and proposes two defenses—a prefix prompt and a RoBERTa-based detector—that effectively block such attacks, with the latter achieving perfect accuracy.
-    </ul>
+    </p>
   </div>
 </div>
 
