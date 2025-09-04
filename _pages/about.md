@@ -57,7 +57,7 @@ My current focus is on video understanding, video editing and robotics.
 <div class="paper-box">
   <div class="paper-box-image">
     <div>
-      <span class="badge">arXiv</span>
+      <span class="badge">ICCV 2025</span>
       <img src="papers/rapverse/imgs/fig_rapverse.png" alt="CameraBench teaser" style="width:100%;">
     </div>
   </div>
