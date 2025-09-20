@@ -26,7 +26,7 @@ My current focus is on video understanding, video editing and robotics.
 <div class="paper-box">
   <div class="paper-box-image">
     <div>
-      <span class="badge">arXiv</span>
+      <span class="badge">NeurIPS 2025 Spotlight</span>
       <img src="papers/camerabench/imgs/3.gif" alt="CameraBench teaser" style="width:100%;">
     </div>
   </div>
