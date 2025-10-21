@@ -57,6 +57,34 @@ My current focus is on video understanding, video editing and robotics.
 <div class="paper-box">
   <div class="paper-box-image">
     <div>
+      <span class="badge">NeurIPS 2025</span>
+      <img src="papers/orator/imgs/teaser_v2.pdf" alt="Orator teaser" style="width:100%;">
+    </div>
+  </div>
+
+  <div class="paper-box-text">
+    <h3>TalkCuts: A Large-Scale Dataset for Multi-Shot Human Speech Video Generation</h3>
+    <p>
+      Jiaben Chen*, Zixin Wang, Ailing Zeng, Yang Fu, Xueyang Yu, <strong>Siyuan Cen</strong>, Julian Tanke, Yihang Chen, Koichi Saito, Yuki Mitsufuji, Chuang Gan
+    </p>
+    <p>
+      <a href="https://oratordemo.github.io/">Website</a> |
+      <a href="https://arxiv.org/pdf/2510.07249?">arXiv</a> |
+      <a href="https://github.com/UMass-Embodied-AGI/TalkCuts">
+        <img
+          src="https://github.com/UMass-Embodied-AGI/TalkCuts?style=social&label=Code+Stars"
+          alt="GitHub stars">
+      </a>
+    </p>
+    <p>
+        In this work, we present TalkCuts, a large-scale benchmark dataset designed to facilitate the study of multi-shot human speech video generation.
+    </p>
+  </div>
+</div>
+
+<div class="paper-box">
+  <div class="paper-box-image">
+    <div>
       <span class="badge">ICCV 2025</span>
       <img src="papers/rapverse/imgs/fig_rapverse.png" alt="CameraBench teaser" style="width:100%;">
     </div>
