@@ -97,7 +97,12 @@ My current focus is on video understanding, video editing and robotics.
     </p>
     <p>
       <a href="https://vis-www.cs.umass.edu/RapVerse/">Website</a> |
-      <a href="https://arxiv.org/abs/2405.20336">arXiv</a> 
+      <a href="https://arxiv.org/abs/2405.20336">arXiv</a> ｜
+      <a href="https://github.com/UMass-Embodied-AGI/TalkCuts">
+        <img
+          src="https://github.com/UMass-Embodied-AGI/RapVerse?style=social&label=Code+Stars"
+          alt="GitHub stars">
+      </a>
     </p>
     <p>
       In this paper, we introduce a challenging task for simultaneously generating 3D holistic body motions and singing vocals directly from textual lyrics inputs. To facilitate this, we first collect the RapVerse dataset, a large dataset containing synchronous rapping vocals, lyrics, and high-quality 3D holistic body meshes.
