@@ -58,7 +58,7 @@ My current focus is on video understanding, video editing and robotics.
   <div class="paper-box-image">
     <div>
       <span class="badge">NeurIPS 2025</span>
-      <img src="papers/orator/imgs/teaser_v2.pdf" alt="Orator teaser" style="width:100%;">
+      <img src="papers/orator/imgs/teaser_v2.jpg" alt="Orator teaser" style="width:100%;">
     </div>
   </div>
 
@@ -72,7 +72,7 @@ My current focus is on video understanding, video editing and robotics.
       <a href="https://arxiv.org/pdf/2510.07249?">arXiv</a> |
       <a href="https://github.com/UMass-Embodied-AGI/TalkCuts">
         <img
-          src="https://github.com/UMass-Embodied-AGI/TalkCuts?style=social&label=Code+Stars"
+          src="https://img.shields.io/github/stars/UMass-Embodied-AGI/TalkCuts?style=social&label=Code+Stars"
           alt="GitHub stars">
       </a>
     </p>
@@ -100,7 +100,7 @@ My current focus is on video understanding, video editing and robotics.
       <a href="https://arxiv.org/abs/2405.20336">arXiv</a> ｜
       <a href="https://github.com/UMass-Embodied-AGI/TalkCuts">
         <img
-          src="https://github.com/UMass-Embodied-AGI/RapVerse?style=social&label=Code+Stars"
+          src="https://img.shields.io/github/stars/UMass-Embodied-AGI/RapVerse?style=social&label=Code+Stars"
           alt="GitHub stars">
       </a>
     </p>
