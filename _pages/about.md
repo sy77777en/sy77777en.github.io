@@ -40,7 +40,7 @@ My current focus is on video understanding, video editing and robotics.
       <a href="https://drive.google.com/file/d/1iwHsYMTDz23Kk7gCC4Dxyt9gsJ0h-vUV/view">arXiv</a> |
       <a href="https://github.com/linzhiqiu/video_annotation">
         <img
-          src="https://img.shields.io/github/stars/sy77777en/CameraBench?style=social&label=Code+Stars"
+          src="https://github.com/linzhiqiu/video_annotation?style=social&label=Code+Stars"
           alt="GitHub stars">
       </a>
     </p>
