@@ -26,6 +26,33 @@ My current focus is on video understanding, video editing and robotics.
 <div class="paper-box">
   <div class="paper-box-image">
     <div>
+      <span class="badge">CVPR 2026</span>
+      <img src="papers/CHAI/imgs/teaser_draft.png" alt="CHAI teaser" style="width:100%;">
+    </div>
+  </div>
+
+  <div class="paper-box-text">
+    <h3>Building a Precise Video Language with Human-AI Oversight</h3>
+    <p>
+      Chancharik Mitra*, <strong>Siyuan Cen*</strong>, Zhiqiu Lin*, Isaac Li, Yuhan Huang, Yu Tong Tiffany Ling, Hewei Wang, Irene Pi, Shihang Zhu, Yili Han, Yilun Du, Deva Ramanan
+    </p>
+    <p>
+      <a href="https://drive.google.com/file/d/1iwHsYMTDz23Kk7gCC4Dxyt9gsJ0h-vUV/view">arXiv</a> |
+      <a href="https://github.com/linzhiqiu/video_annotation">
+        <img
+          src="https://img.shields.io/github/stars/sy77777en/CameraBench?style=social&label=Code+Stars"
+          alt="GitHub stars">
+      </a>
+    </p>
+    <p>
+        We present CHAI, a critique-based human–AI oversight framework for building precise video language through structured specifications and scalable caption refinement.
+    </p>
+  </div>
+</div>
+
+<div class="paper-box">
+  <div class="paper-box-image">
+    <div>
       <span class="badge">NeurIPS 2025 Spotlight</span>
       <img src="papers/camerabench/imgs/3.gif" alt="CameraBench teaser" style="width:100%;">
     </div>
