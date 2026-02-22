@@ -192,6 +192,28 @@ My current focus is on video understanding, video editing and robotics.
 </div>
 
 <div class="paper-box-right"
+     style="display: flex; align-items: center; justify-content: flex-start; gap: 20px; padding: 0 35px; margin-bottom: 25px;">
+  <div class="paper-box-text" style="flex: 1;">
+    <p>Carnegie Mellon University</p>
+    <p><em>Visiting Student, 2025.06 – 2025.09</em></p>
+    <p>Advisor: <a href="https://www.cs.cmu.edu/~deva/">Deva Ramanan</a></p>
+  </div>
+  <div class="paper-box-image" style="flex: 0 0 auto;">
+    <a href="https://www.cs.cmu.edu/~deva/">
+      <img
+        src="images/CMU.webp"
+        alt="CMU logo"
+        width="100"
+        style="display: block;
+               transition: transform 0.2s ease;
+               cursor: pointer;"
+        onmouseover="this.style.transform='scale(1.1)'; this.style.boxShadow='0 8px 16px rgba(0,0,0,0.25)';"
+        onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='none';" />
+    </a>
+  </div>
+</div>
+
+<div class="paper-box-right"
      style="display: flex; align-items: center; justify-content: flex-start; padding: 0 35px; gap: 20px;">
   <div class="paper-box-text" style="flex: 1;">
     <p>Nanjing University</p>
@@ -218,8 +240,30 @@ My current focus is on video understanding, video editing and robotics.
 <div class="paper-box-right"
      style="display: flex; align-items: center; justify-content: flex-start; padding: 0 35px; gap: 20px; margin-bottom: 25px;">
   <div class="paper-box-text" style="flex: 1;">
-    <p>Deva's Lab</p>
+    <p>Embodied Minds Lab</p>
     <p><em>Research Intern, 2025.05 – now</em></p>
+    <p>Advisor: <a href="https://yilundu.github.io//">Yilun Du</a></p>
+  </div>
+  <div class="paper-box-image" style="flex: 0 0 auto;">
+    <a href="https://yilundu.github.io/">
+      <img
+        src="images/embodied_minds.svg"
+        alt="Harvard Logo"
+        width="100"
+        style="display: block;
+               transition: transform 0.2s ease;
+               cursor: pointer;"
+        onmouseover="this.style.transform='scale(1.1)'; this.style.boxShadow='0 8px 16px rgba(0,0,0,0.25)';"
+        onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='none';" />
+    </a>
+  </div>
+</div>
+
+<div class="paper-box-right"
+     style="display: flex; align-items: center; justify-content: flex-start; padding: 0 35px; gap: 20px; margin-bottom: 25px;">
+  <div class="paper-box-text" style="flex: 1;">
+    <p>Deva's Lab</p>
+    <p><em>Research Intern, 2024.09 – now</em></p>
     <p>Advisor: <a href="https://www.cs.cmu.edu/~deva/">Deva Ramanan</a></p>
   </div>
   <div class="paper-box-image" style="flex: 0 0 auto;">
