@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I’m Siyuan Cen (岑思远), a second-year master at [UMass Amherst](https://www.umass.edu/), advised by Prof. [Chuang Gan](https://people.csail.mit.edu/ganchuang/). I’m currently a research intern at [CMU](https://www.cmu.edu/), co-advised by Prof. [Deva Ramanan](https://www.cs.cmu.edu/~deva/) and Prof. [Yilun Du](https://yilundu.github.io/). Previously, I earned my Bachelor’s degree from Nanjing University, where I had the privilege of working with Prof. [Ying Tai](https://tyshiwo.github.io/).
+I’m Siyuan Cen (岑思远), a second-year master at [UMass Amherst](https://www.umass.edu/). I’m currently a research intern at [CMU](https://www.cmu.edu/), co-advised by Prof. [Deva Ramanan](https://www.cs.cmu.edu/~deva/) and Prof. [Yilun Du](https://yilundu.github.io/). I previously worked with Prof. [Chuang Gan](https://people.csail.mit.edu/ganchuang/), and prior to that, I earned my Bachelor’s degree from Nanjing University, where I had the privilege of working with Prof. [Ying Tai](https://tyshiwo.github.io/).
 
 My current focus is on video understanding, video editing and robotics.
 
@@ -26,7 +26,7 @@ My current focus is on video understanding, video editing and robotics.
 <div class="paper-box">
   <div class="paper-box-image">
     <div>
-      <span class="badge">CVPR 2026</span>
+      <span class="badge">CVPR 2026 Highlight</span>
       <img src="papers/CHAI/imgs/teaser_draft.png" alt="CHAI teaser" style="width:100%;">
     </div>
   </div>
@@ -34,7 +34,7 @@ My current focus is on video understanding, video editing and robotics.
   <div class="paper-box-text">
     <h3>Building a Precise Video Language with Human-AI Oversight</h3>
     <p>
-      Chancharik Mitra*, <strong>Siyuan Cen*</strong>, Zhiqiu Lin*, Isaac Li, Yuhan Huang, Yu Tong Tiffany Ling, Hewei Wang, Irene Pi, Shihang Zhu, Yili Han, Yilun Du, Deva Ramanan
+      Zhiqiu Lin*, Chancharik Mitra*, <strong>Siyuan Cen*</strong>, Isaac Li, Yuhan Huang, Yu Tong Tiffany Ling, Hewei Wang, Irene Pi, Shihang Zhu, Yili Han, Yilun Du, Deva Ramanan
     </p>
     <p>
       <a href="https://drive.google.com/file/d/1iwHsYMTDz23Kk7gCC4Dxyt9gsJ0h-vUV/view">arXiv</a> |
