@@ -161,11 +161,12 @@ My current focus is on video understanding, video generation and physical AI.
 </div>
 
 # 🎖 Honors and Awards
+- *2026.03* CHAI received CVPR 2026 Highlight
+- *2025.09* CameraBench received NeurIPS 2025 Spotlight
 - *2024.08* Champion of Jiangsu University Badminton Exchange Match 
 - *2023.10* People's Third Class Scholarship
 - *2022.10* Qing Ying Fei Fan Scholarship
 - *2021.09* People's First Class Scholarship
-- *2021.08* The sixth place of badminton in Jiangsu University Games
 
 # 📖 Educations
 
