@@ -17,9 +17,9 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I’m Siyuan Cen (岑思远), a second-year master at [UMass Amherst](https://www.umass.edu/). I’m currently a research intern at [CMU](https://www.cmu.edu/), co-advised by Prof. [Deva Ramanan](https://www.cs.cmu.edu/~deva/) and Prof. [Yilun Du](https://yilundu.github.io/). I previously worked with Prof. [Chuang Gan](https://people.csail.mit.edu/ganchuang/), and prior to that, I earned my Bachelor’s degree from Nanjing University, where I had the privilege of working with Prof. [Ying Tai](https://tyshiwo.github.io/).
+I’m Siyuan Cen (岑思远), an incoming Research Engineer at Luma AI. Previously, I earned my master degree from [UMass Amherst](https://www.umass.edu/) and worked as a research intern at [CMU](https://www.cmu.edu/), where I was fortunate to work with Prof. [Deva Ramanan](https://www.cs.cmu.edu/~deva/) and Prof. [Yilun Du](https://yilundu.github.io/). I also previously worked with Prof. [Chuang Gan](https://people.csail.mit.edu/ganchuang/). Before that, I received my Bachelor’s degree from Nanjing University, where I had the privilege of working with Prof. [Ying Tai](https://tyshiwo.github.io/).
 
-My current focus is on video understanding, video editing and robotics.
+My current focus is on video understanding, video generation and physical AI.
 
 # 📝 Publications 
 
