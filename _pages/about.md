@@ -38,7 +38,7 @@ My current focus is on video understanding, video generation and physical AI.
     </p>
     <p>
       <a href="https://drive.google.com/file/d/1iwHsYMTDz23Kk7gCC4Dxyt9gsJ0h-vUV/view">arXiv</a> |
-      <a href="https://github.com/linzhiqiu/video_annotation">
+      <a href="https://github.com/chancharikmitra/CHAI">
         <img
           src="https://img.shields.io/github/stars/linzhiqiu/video_annotation?style=social&label=Code+Stars"
           alt="GitHub stars">
