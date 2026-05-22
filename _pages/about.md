@@ -303,7 +303,7 @@ My current focus is on video understanding, video generation and physical AI.
   </div>
 </div>
 
-<div class="paper-box-right"
+<!-- <div class="paper-box-right"
      style="display: flex; align-items: center; justify-content: flex-start; padding: 0 35px; gap: 20px;">
   <div class="paper-box-text" style="flex: 1;">
     <p>Huijuan Xu's Lab</p>
@@ -323,4 +323,4 @@ My current focus is on video understanding, video generation and physical AI.
         onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='none';" />
     </a>
   </div>
-</div>
+</div> -->
