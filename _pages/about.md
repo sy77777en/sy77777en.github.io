@@ -37,7 +37,7 @@ My current focus is on video understanding, video generation and physical AI.
       Zhiqiu Lin*, Chancharik Mitra*, <strong>Siyuan Cen*</strong>, Isaac Li, Yuhan Huang, Yu Tong Tiffany Ling, Hewei Wang, Irene Pi, Shihang Zhu, Yili Han, Yilun Du, Deva Ramanan
     </p>
     <p>
-      <a href="https://drive.google.com/file/d/1iwHsYMTDz23Kk7gCC4Dxyt9gsJ0h-vUV/view">arXiv</a> |
+      <a href="https://openaccess.thecvf.com/content/CVPR2026/papers/Lin_Building_a_Precise_Video_Language_with_Human-AI_Oversight_CVPR_2026_paper.pdf">arXiv</a> |
       <a href="https://github.com/chancharikmitra/CHAI">
         <img
           src="https://img.shields.io/github/stars/chancharikmitra/CHAI?style=social&label=Code+Stars"
