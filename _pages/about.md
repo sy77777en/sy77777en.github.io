@@ -67,7 +67,7 @@ My current focus is on video understanding, video generation and physical AI.
     </p>
     <p>
       <a href="https://linzhiqiu.github.io/papers/camerabench/">Website</a> |
-      <a href="https://arxiv.org/abs/2504.15376">arXiv</a> |
+      <a href="https://proceedings.neurips.cc/paper_files/paper/2025/file/c2d7b739f61ffbea729dad2cf9ec8c60-Paper-Datasets_and_Benchmarks_Track.pdf">arXiv</a> |
       <a href="https://github.com/sy77777en/CameraBench">
         <img
           src="https://img.shields.io/github/stars/sy77777en/CameraBench?style=social&label=Code+Stars"
